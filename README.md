@@ -1,4 +1,4 @@
-# ChatGPT-Edgenuity-Prompt-47.5-accuracy-
+# ChatGPT-Edgenuity-Prompt-56-accuracy-
 When this prompt is added to ChatGPT, it will try to get the best awnsers to your question. Works for any question on Edgenuity! 
 
 Obviously, not every answer will work as this is only a chat bot. But, theres constant updates trying to fix this and get the best average accuracy to the question. Please don't use this prompt to get answers as the accuracy isn't high. But I am pumping out updates daily to incrase the accuracy!
